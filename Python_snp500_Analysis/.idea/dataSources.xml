@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="start = datetime.datetime(2010, 1, 1)  end = datetime.datetime(2013, 1, 27)  df = web.DataReader(&quot;SPY&quot;, 'yahoo', start, end)  # Even has access to FRED data gdp = web.DataReader(&quot;GDP&quot;, &quot;fred&quot;, start, end)" uuid="1aabe4a3-4310-48b9-886a-d180a4b1ddff">
+      <driver-ref>h2.unified</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.h2.Driver</jdbc-driver>
+      <jdbc-url>jdbc:h2:$PROJECT_DIR$/../homework\start = datetime.datetime(2010, 1, 1)  end = datetime.datetime(2013, 1, 27)  df = web.DataReader(&quot;SPY&quot;, 'yahoo', start, end)  # Even has access to FRED data gdp = web.DataReader(&quot;GDP&quot;, &quot;fred&quot;, start, end)</jdbc-url>
+    </data-source>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="start = datetime.datetime(2010, 1, 1)  end = datetime.datetime(2013, 1, 27)  df = web.DataReader(&quot;SPY&quot;, 'yahoo', start, end)  # Even has access to FRED data gdp = web.DataReader(&quot;GDP&quot;, &quot;fred&quot;, start, end)" uuid="1aabe4a3-4310-48b9-886a-d180a4b1ddff">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <secret-storage>master_key</secret-storage>
+      <first-sync>true</first-sync>
+    </data-source>
+  </component>
+</project>
